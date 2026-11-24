@@ -28,6 +28,9 @@ temp/
 logs/
 *.pid
 
+a-debug/
+.env
+
 WeKnora
 WeKnora-lite
 cmd/desktop/build/bin/
